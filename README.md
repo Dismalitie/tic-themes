@@ -2,6 +2,7 @@
 Sprite and tile themes for TIC80
 
 You can try these themes as a demo with the `demo.exe` file in each theme folder.
+
 **Note:** When you press the escape key to view the theme, you need to navigate to the "sprites" tab.
 
 # How do I install TIC-80 themes?
