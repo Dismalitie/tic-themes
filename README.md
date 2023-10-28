@@ -51,5 +51,3 @@ edit
 ```
 
 **9.** Press `ctrl+s` to apply and save!
-# tic-themes
- 
