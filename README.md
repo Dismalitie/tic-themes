@@ -1,6 +1,8 @@
 # tic80-themes
 Sprite and tile themes for TIC80
 
+You can try these themes as a demo with the `demo.exe` file in each theme folder.
+
 # How do I install TIC-80 themes?
 To install a TIC-80 theme, follow these steps.
 
@@ -11,7 +13,7 @@ To install a TIC-80 theme, follow these steps.
 folder
 ```
 
-**3.** Create a new folder called "themes".
+**3.** Create a new folder called "tic-themes" or download this repo.
 
 **4.** Put your theme's `sprites.tth` and `tiles.tth` files in the folder.
 
