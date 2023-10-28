@@ -1,4 +1,4 @@
-# tic80-themes
+# tic-themes
 Sprite and tile themes for TIC80
 
 You can try these themes as a demo with the `demo.exe` file in each theme folder.
