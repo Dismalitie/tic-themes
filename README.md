@@ -8,7 +8,7 @@ You can try these themes as a demo with the `demo.exe` file in each theme folder
 # How do I install TIC-80 themes?
 To install a TIC-80 theme, follow these steps.
 
-**1.** Download a theme's `sprites.tth` and `tiles.tth`.
+**1.** Download a theme's `config.tic` file.
 
 **2.** Open TIC-80 and enter:
 ```cmd
@@ -17,7 +17,7 @@ folder
 
 **3.** Create a new folder called "tic-themes" or download this repo.
 
-**4.** Put your theme's `sprites.tth` and `tiles.tth` files in the folder.
+**4.** Put your theme's `config.tic` file in the folder.
 
 **5.** Go back to TIC-80 and enter:
 ```cmd
@@ -29,25 +29,14 @@ cd themes
 config
 ```
 
-**6.5** It is advised that you create a backup of the default theme by doing:
-```cmd
-export sprites backup.sprites
-```
-```cmd
-export tiles backup.tiles
-```
+**7.** Make note of the path that appears at the top of the screen (e.g `.local/be42d6f/config.tic`)
 
-**7.** Run the import commands for the spritesheet and tilemap (we're using the guilded theme as an example):
+**8.** Make a backup of the default themes by running:
 ```cmd
-import sprites guilded.sprites.tth
+save default
 ```
-```cmd
-import tiles guilded.tiles.tth
-```
+**9.** Close TIC-80.
 
-**8.** Run:
-```cmd
-edit
-```
+**10.** Replace the default `config.tic` (located in the path you took note of earlier e.g `.local/be42d6f/config.tic`) file with your theme's `config.tic` file.
 
-**9.** Press `ctrl+s` to apply and save!
+**11.** Run TIC-80!
