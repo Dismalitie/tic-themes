@@ -1,4 +1,7 @@
 # tic-themes
+![Static Badge](https://img.shields.io/badge/pdfe:_a66d6f81.6f46.4a05.9cca.6551be820a0c-ff7070)
+
+
 Sprite and tile themes for TIC80
 
 **Note: When you press the escape key to view the theme, you need to go to settings and enabled dev mode. Then press escape twice and navigate to the sprites tab.**
