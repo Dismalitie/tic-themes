@@ -22,7 +22,7 @@ folder
 ```cmd
 config
 ```
-**5.** Copy or mkae not of the path that is shown in the message (e.g ".local/be42d6f/config.tic").
+**5.** Copy or make note of the path that is shown in the message (e.g `".local/be42d6f/config.tic"`).
 
 **6.** Close TIC-80 and open tic-tweaker.
 
